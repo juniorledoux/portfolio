@@ -111,7 +111,7 @@ function Projects() {
               title="MY-PORTFOLIO"
               description=""
               ghLink="https://github.com/juniorledoux/portfolio"
-              demoLink="https://gitlab.com/juniorledoux/portfolio"
+              demoLink="https://juniorledoux.github.io/portfolio"
             />
           </Col>
         </Row>
